@@ -1,0 +1,16 @@
+.nav-bar {
+  background-color: rgb(31, 28, 28);
+  display: flex;
+  justify-content: space-evenly;
+  line-height: 5rem;
+  margin-bottom: 0;
+}
+.nav-link {
+  text-decoration: none;
+  color: lime;
+  font-size: 3rem;
+  border: lime solid 3px;
+  border-radius: 10px;
+  margin: 5px;
+  padding: 10px;
+}

@@ -1,0 +1,25 @@
+.article-card {
+  padding: 10px;
+  margin: 10px;
+  box-sizing: border-box;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 25px;
+  background-color: rgb(73, 71, 71);
+}
+
+.card-header {
+  color: lime;
+  font-size: 1.5rem;
+}
+.tagline {
+  color: lime;
+}
+.link-to-beer {
+  text-decoration: none;
+  color: lime;
+  font-size: 2em;
+  background-color: black;
+  padding: 5px;
+  border-radius: 10px;
+}

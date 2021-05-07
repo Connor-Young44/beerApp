@@ -1,0 +1,19 @@
+.HomePage {
+  background-color: rgb(31, 28, 28);
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.to-beer-link {
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 4rem;
+  font-size: 4rem;
+  padding: 30px;
+  border-radius: 40px;
+  border: lime 2px solid;
+  background-color: rgb(31, 28, 28);
+  color: lime;
+}
